@@ -1,5 +1,18 @@
-{"updatedAt": "2026-04-16T08:52:53Z", "commodities": {
-  "Error Message": "Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is only available for legacy users who have valid subscriptions prior August 31, 2025. Please visit our documentation page https://site.financialmodelingprep.com/developer/docs for our current APIs. "
-}, "sp500": {
-  "Error Message": "Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is only available for legacy users who have valid subscriptions prior August 31, 2025. Please visit our documentation page https://site.financialmodelingprep.com/developer/docs for our current APIs. "
-}}
+{
+  "updatedAt": "2026-04-16T08:57:07Z",
+  "gold": {
+  "Error Message": "Bandwidth Limit Reach . Please upgrade your plan or visit our documentation for more details at https://site.financialmodelingprep.com/"
+},
+  "silver": {
+  "Error Message": "Bandwidth Limit Reach . Please upgrade your plan or visit our documentation for more details at https://site.financialmodelingprep.com/"
+},
+  "oil": {
+  "Error Message": "Bandwidth Limit Reach . Please upgrade your plan or visit our documentation for more details at https://site.financialmodelingprep.com/"
+},
+  "bitcoin": {
+  "Error Message": "Bandwidth Limit Reach . Please upgrade your plan or visit our documentation for more details at https://site.financialmodelingprep.com/"
+},
+  "sp500": {
+  "Error Message": "Bandwidth Limit Reach . Please upgrade your plan or visit our documentation for more details at https://site.financialmodelingprep.com/"
+}
+}
