@@ -1,0 +1,39 @@
+name: Update Gold Prices Daily
+
+on:
+  schedule:
+    # Runs every day at 21:30 UTC (after US market close)
+    - cron: '30 21 * * *'
+  workflow_dispatch:  # Lets you manually trigger it from GitHub UI
+
+jobs:
+  fetch-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch FMP prices and write JSON
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: |
+          # Fetch commodities (Gold, Silver, Oil) and Bitcoin in one batch call
+          COMMODITIES=$(curl -s "https://financialmodelingprep.com/api/v3/quote/ZGUSD,SIUSD,CLUSD,BTCUSD?apikey=$FMP_API_KEY")
+          
+          # Fetch S&P 500 separately (indexes use a different symbol path)
+          SP500=$(curl -s "https://financialmodelingprep.com/api/v3/quote/%5EGSPC?apikey=$FMP_API_KEY")
+          
+          # Build the JSON file
+          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          echo "{\"updatedAt\": \"$TIMESTAMP\", \"commodities\": $COMMODITIES, \"sp500\": $SP500}" > data/latest-prices.json
+          
+          # Show what we saved (for debugging in the Actions log)
+          cat data/latest-prices.json
+
+      - name: Commit and push updated prices
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest-prices.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update prices $(date -u +'%Y-%m-%d')"
+          git push
