@@ -1,18 +1,53 @@
 {
-  "updatedAt": "2026-04-16T08:57:07Z",
+  "updatedAt": "2026-04-16T09:01:57Z",
   "gold": {
-  "Error Message": "Bandwidth Limit Reach . Please upgrade your plan or visit our documentation for more details at https://site.financialmodelingprep.com/"
-},
+    "symbol": "GC=F",
+    "price": 4830.8,
+    "previousClose": 4800.0,
+    "change": 30.8,
+    "changePercent": 0.64,
+    "dayHigh": 4861.3,
+    "dayLow": 4812.4,
+    "date": "2026-04-16"
+  },
   "silver": {
-  "Error Message": "Bandwidth Limit Reach . Please upgrade your plan or visit our documentation for more details at https://site.financialmodelingprep.com/"
-},
+    "symbol": "SI=F",
+    "price": 79.81,
+    "previousClose": 79.49,
+    "change": 0.32,
+    "changePercent": 0.4,
+    "dayHigh": 81.04,
+    "dayLow": 79.11,
+    "date": "2026-04-16"
+  },
   "oil": {
-  "Error Message": "Bandwidth Limit Reach . Please upgrade your plan or visit our documentation for more details at https://site.financialmodelingprep.com/"
-},
+    "symbol": "CL=F",
+    "price": 89.26,
+    "previousClose": 91.29,
+    "change": -2.03,
+    "changePercent": -2.22,
+    "dayHigh": 89.82,
+    "dayLow": 87.32,
+    "date": "2026-04-16"
+  },
   "bitcoin": {
-  "Error Message": "Bandwidth Limit Reach . Please upgrade your plan or visit our documentation for more details at https://site.financialmodelingprep.com/"
-},
+    "symbol": "BTC-USD",
+    "price": 74665.46,
+    "previousClose": 74805.08,
+    "change": -139.62,
+    "changePercent": -0.19,
+    "dayHigh": 75209.67,
+    "dayLow": 74517.7,
+    "date": "2026-04-16"
+  },
   "sp500": {
-  "Error Message": "Bandwidth Limit Reach . Please upgrade your plan or visit our documentation for more details at https://site.financialmodelingprep.com/"
-}
+    "symbol": "^GSPC",
+    "price": 7022.95,
+    "previousClose": 6967.38,
+    "change": 55.57,
+    "changePercent": 0.8,
+    "dayHigh": 7026.24,
+    "dayLow": 6967.13,
+    "date": "2026-04-15"
+  }
 }
