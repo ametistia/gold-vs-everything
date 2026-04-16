@@ -2,9 +2,8 @@ name: Update Gold Prices Daily
 
 on:
   schedule:
-    # Runs every day at 21:30 UTC (after US market close)
     - cron: '30 21 * * *'
-  workflow_dispatch:  # Lets you manually trigger it from GitHub UI
+  workflow_dispatch:
 
 jobs:
   fetch-prices:
@@ -13,32 +12,60 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch FMP prices and write JSON
-        env:
-          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install yfinance
+        run: pip install yfinance
+
+      - name: Fetch prices from Yahoo Finance
         run: |
-          # Fetch each asset from the new /stable/ endpoints
-          GOLD=$(curl -s "https://financialmodelingprep.com/stable/quote?symbol=GCUSD&apikey=$FMP_API_KEY")
-          SILVER=$(curl -s "https://financialmodelingprep.com/stable/quote?symbol=SIUSD&apikey=$FMP_API_KEY")
-          OIL=$(curl -s "https://financialmodelingprep.com/stable/quote?symbol=CLUSD&apikey=$FMP_API_KEY")
-          BTC=$(curl -s "https://financialmodelingprep.com/stable/quote?symbol=BTCUSD&apikey=$FMP_API_KEY")
-          SP500=$(curl -s "https://financialmodelingprep.com/stable/quote?symbol=%5EGSPC&apikey=$FMP_API_KEY")
+          python <<'EOF'
+          import yfinance as yf
+          import json
+          from datetime import datetime, timezone
           
-          # Build the JSON file
-          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          cat > data/latest-prices.json <<EOF
-          {
-            "updatedAt": "$TIMESTAMP",
-            "gold": $GOLD,
-            "silver": $SILVER,
-            "oil": $OIL,
-            "bitcoin": $BTC,
-            "sp500": $SP500
+          # Yahoo Finance symbols
+          symbols = {
+              "gold": "GC=F",        # Gold futures
+              "silver": "SI=F",       # Silver futures
+              "oil": "CL=F",          # WTI Crude Oil futures
+              "bitcoin": "BTC-USD",   # Bitcoin
+              "sp500": "^GSPC"        # S&P 500 index
           }
-          EOF
           
-          # Show what we saved (for debugging in the Actions log)
-          cat data/latest-prices.json
+          result = {
+              "updatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+          }
+          
+          for key, symbol in symbols.items():
+              ticker = yf.Ticker(symbol)
+              hist = ticker.history(period="2d")
+              
+              if len(hist) > 0:
+                  latest = hist.iloc[-1]
+                  previous = hist.iloc[-2] if len(hist) > 1 else latest
+                  
+                  result[key] = {
+                      "symbol": symbol,
+                      "price": round(float(latest["Close"]), 2),
+                      "previousClose": round(float(previous["Close"]), 2),
+                      "change": round(float(latest["Close"] - previous["Close"]), 2),
+                      "changePercent": round(float((latest["Close"] - previous["Close"]) / previous["Close"] * 100), 2),
+                      "dayHigh": round(float(latest["High"]), 2),
+                      "dayLow": round(float(latest["Low"]), 2),
+                      "date": latest.name.strftime("%Y-%m-%d")
+                  }
+              else:
+                  result[key] = {"error": "No data available"}
+          
+          with open("data/latest-prices.json", "w") as f:
+              json.dump(result, f, indent=2)
+          
+          print(json.dumps(result, indent=2))
+          EOF
 
       - name: Commit and push updated prices
         run: |
