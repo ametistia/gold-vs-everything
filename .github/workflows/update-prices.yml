@@ -17,15 +17,25 @@ jobs:
         env:
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
         run: |
-          # Fetch commodities (Gold, Silver, Oil) and Bitcoin in one batch call
-          COMMODITIES=$(curl -s "https://financialmodelingprep.com/api/v3/quote/ZGUSD,SIUSD,CLUSD,BTCUSD?apikey=$FMP_API_KEY")
-          
-          # Fetch S&P 500 separately (indexes use a different symbol path)
-          SP500=$(curl -s "https://financialmodelingprep.com/api/v3/quote/%5EGSPC?apikey=$FMP_API_KEY")
+          # Fetch each asset from the new /stable/ endpoints
+          GOLD=$(curl -s "https://financialmodelingprep.com/stable/quote?symbol=GCUSD&apikey=$FMP_API_KEY")
+          SILVER=$(curl -s "https://financialmodelingprep.com/stable/quote?symbol=SIUSD&apikey=$FMP_API_KEY")
+          OIL=$(curl -s "https://financialmodelingprep.com/stable/quote?symbol=CLUSD&apikey=$FMP_API_KEY")
+          BTC=$(curl -s "https://financialmodelingprep.com/stable/quote?symbol=BTCUSD&apikey=$FMP_API_KEY")
+          SP500=$(curl -s "https://financialmodelingprep.com/stable/quote?symbol=%5EGSPC&apikey=$FMP_API_KEY")
           
           # Build the JSON file
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          echo "{\"updatedAt\": \"$TIMESTAMP\", \"commodities\": $COMMODITIES, \"sp500\": $SP500}" > data/latest-prices.json
+          cat > data/latest-prices.json <<EOF
+          {
+            "updatedAt": "$TIMESTAMP",
+            "gold": $GOLD,
+            "silver": $SILVER,
+            "oil": $OIL,
+            "bitcoin": $BTC,
+            "sp500": $SP500
+          }
+          EOF
           
           # Show what we saved (for debugging in the Actions log)
           cat data/latest-prices.json
