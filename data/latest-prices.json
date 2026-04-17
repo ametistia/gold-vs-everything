@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-04-16T22:05:54Z",
+  "updatedAt": "2026-04-17T22:05:42Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4810.9,
-    "previousClose": 4800.0,
-    "change": 10.9,
-    "changePercent": 0.23,
-    "dayHigh": 4861.3,
-    "dayLow": 4792.1,
-    "date": "2026-04-16"
+    "price": 4849.4,
+    "previousClose": 4785.4,
+    "change": 64.0,
+    "changePercent": 1.34,
+    "dayHigh": 4917.7,
+    "dayLow": 4785.9,
+    "date": "2026-04-17"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 78.46,
-    "previousClose": 79.49,
-    "change": -1.03,
-    "changePercent": -1.3,
-    "dayHigh": 81.04,
-    "dayLow": 78.16,
-    "date": "2026-04-16"
+    "price": 80.93,
+    "previousClose": 78.61,
+    "change": 2.32,
+    "changePercent": 2.96,
+    "dayHigh": 83.25,
+    "dayLow": 77.77,
+    "date": "2026-04-17"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 89.65,
-    "previousClose": 91.29,
-    "change": -1.64,
-    "changePercent": -1.8,
-    "dayHigh": 91.82,
-    "dayLow": 87.32,
-    "date": "2026-04-16"
+    "price": 84.0,
+    "previousClose": 94.69,
+    "change": -10.69,
+    "changePercent": -11.29,
+    "dayHigh": 90.34,
+    "dayLow": 78.97,
+    "date": "2026-04-17"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 75067.09,
-    "previousClose": 74805.08,
-    "change": 262.02,
-    "changePercent": 0.35,
-    "dayHigh": 75421.95,
-    "dayLow": 73446.51,
-    "date": "2026-04-16"
+    "price": 77525.58,
+    "previousClose": 75152.13,
+    "change": 2373.45,
+    "changePercent": 3.16,
+    "dayHigh": 78231.23,
+    "dayLow": 74598.08,
+    "date": "2026-04-17"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7041.28,
-    "previousClose": 7022.95,
-    "change": 18.33,
-    "changePercent": 0.26,
-    "dayHigh": 7051.23,
-    "dayLow": 7008.52,
-    "date": "2026-04-16"
+    "price": 7126.06,
+    "previousClose": 7041.28,
+    "change": 84.78,
+    "changePercent": 1.2,
+    "dayHigh": 7147.52,
+    "dayLow": 7074.55,
+    "date": "2026-04-17"
   }
 }
