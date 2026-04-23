@@ -22,6 +22,7 @@ jobs:
 
       - name: Fetch prices from Yahoo Finance
         run: |
+          mkdir -p public/data
           python <<'EOF'
           import yfinance as yf
           import json
