@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-05-05T22:29:54Z",
+  "updatedAt": "2026-05-06T22:13:16Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4559.3,
-    "previousClose": 4519.5,
-    "change": 39.8,
-    "changePercent": 0.88,
-    "dayHigh": 4570.5,
-    "dayLow": 4558.4,
-    "date": "2026-05-05"
+    "price": 4701.4,
+    "previousClose": 4555.8,
+    "change": 145.6,
+    "changePercent": 3.2,
+    "dayHigh": 4706.0,
+    "dayLow": 4700.2,
+    "date": "2026-05-06"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 73.22,
-    "previousClose": 73.07,
-    "change": 0.15,
-    "changePercent": 0.2,
-    "dayHigh": 73.33,
-    "dayLow": 73.2,
-    "date": "2026-05-05"
+    "price": 77.84,
+    "previousClose": 73.11,
+    "change": 4.73,
+    "changePercent": 6.47,
+    "dayHigh": 77.99,
+    "dayLow": 77.79,
+    "date": "2026-05-06"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 102.59,
-    "previousClose": 106.42,
-    "change": -3.83,
-    "changePercent": -3.6,
-    "dayHigh": 102.7,
-    "dayLow": 102.45,
-    "date": "2026-05-05"
+    "price": 95.77,
+    "previousClose": 102.27,
+    "change": -6.5,
+    "changePercent": -6.36,
+    "dayHigh": 96.33,
+    "dayLow": 95.62,
+    "date": "2026-05-06"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 80937.36,
-    "previousClose": 79827.91,
-    "change": 1109.45,
-    "changePercent": 1.39,
-    "dayHigh": 81226.42,
-    "dayLow": 79824.22,
+    "price": 80927.05,
+    "previousClose": 80927.05,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 81751.45,
+    "dayLow": 79787.58,
     "date": "2026-05-05"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7259.22,
-    "previousClose": 7200.75,
-    "change": 58.47,
-    "changePercent": 0.81,
-    "dayHigh": 7273.26,
-    "dayLow": 7233.62,
-    "date": "2026-05-05"
+    "price": 7365.12,
+    "previousClose": 7259.22,
+    "change": 105.9,
+    "changePercent": 1.46,
+    "dayHigh": 7369.22,
+    "dayLow": 7294.14,
+    "date": "2026-05-06"
   }
 }
