@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-05-13T22:44:22Z",
+  "updatedAt": "2026-05-14T22:36:11Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4702.6,
-    "previousClose": 4677.6,
-    "change": 25.0,
-    "changePercent": 0.53,
-    "dayHigh": 4705.4,
-    "dayLow": 4695.5,
-    "date": "2026-05-13"
+    "price": 4661.7,
+    "previousClose": 4697.7,
+    "change": -36.0,
+    "changePercent": -0.77,
+    "dayHigh": 4663.7,
+    "dayLow": 4651.0,
+    "date": "2026-05-14"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 88.46,
-    "previousClose": 85.13,
-    "change": 3.33,
-    "changePercent": 3.91,
-    "dayHigh": 88.57,
-    "dayLow": 88.12,
-    "date": "2026-05-13"
+    "price": 84.1,
+    "previousClose": 88.89,
+    "change": -4.79,
+    "changePercent": -5.39,
+    "dayHigh": 84.18,
+    "dayLow": 83.85,
+    "date": "2026-05-14"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 100.86,
-    "previousClose": 102.18,
-    "change": -1.32,
-    "changePercent": -1.29,
-    "dayHigh": 101.26,
-    "dayLow": 100.72,
-    "date": "2026-05-13"
+    "price": 101.59,
+    "previousClose": 101.02,
+    "change": 0.57,
+    "changePercent": 0.56,
+    "dayHigh": 102.07,
+    "dayLow": 101.48,
+    "date": "2026-05-14"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 79366.03,
-    "previousClose": 80477.49,
-    "change": -1111.46,
-    "changePercent": -1.38,
-    "dayHigh": 81265.38,
-    "dayLow": 78742.8,
-    "date": "2026-05-13"
+    "price": 81488.44,
+    "previousClose": 79277.12,
+    "change": 2211.32,
+    "changePercent": 2.79,
+    "dayHigh": 81987.53,
+    "dayLow": 79001.51,
+    "date": "2026-05-14"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7444.25,
-    "previousClose": 7400.96,
-    "change": 43.29,
-    "changePercent": 0.58,
-    "dayHigh": 7460.04,
-    "dayLow": 7375.13,
-    "date": "2026-05-13"
+    "price": 7501.24,
+    "previousClose": 7444.25,
+    "change": 56.99,
+    "changePercent": 0.77,
+    "dayHigh": 7517.12,
+    "dayLow": 7454.4,
+    "date": "2026-05-14"
   }
 }
