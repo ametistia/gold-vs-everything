@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-05-14T22:36:11Z",
+  "updatedAt": "2026-05-15T22:29:25Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4661.7,
-    "previousClose": 4697.7,
-    "change": -36.0,
-    "changePercent": -0.77,
-    "dayHigh": 4663.7,
-    "dayLow": 4651.0,
-    "date": "2026-05-14"
+    "price": 4543.6,
+    "previousClose": 4678.1,
+    "change": -134.5,
+    "changePercent": -2.88,
+    "dayHigh": 4670.1,
+    "dayLow": 4513.8,
+    "date": "2026-05-15"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 84.1,
-    "previousClose": 88.89,
-    "change": -4.79,
-    "changePercent": -5.39,
-    "dayHigh": 84.18,
-    "dayLow": 83.85,
-    "date": "2026-05-14"
+    "price": 76.29,
+    "previousClose": 84.91,
+    "change": -8.62,
+    "changePercent": -10.15,
+    "dayHigh": 84.38,
+    "dayLow": 76.09,
+    "date": "2026-05-15"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 101.59,
-    "previousClose": 101.02,
-    "change": 0.57,
-    "changePercent": 0.56,
-    "dayHigh": 102.07,
-    "dayLow": 101.48,
-    "date": "2026-05-14"
+    "price": 101.16,
+    "previousClose": 101.17,
+    "change": -0.01,
+    "changePercent": -0.01,
+    "dayHigh": 101.57,
+    "dayLow": 97.23,
+    "date": "2026-05-15"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 81488.44,
-    "previousClose": 79277.12,
-    "change": 2211.32,
-    "changePercent": 2.79,
-    "dayHigh": 81987.53,
-    "dayLow": 79001.51,
-    "date": "2026-05-14"
+    "price": 78999.01,
+    "previousClose": 81051.25,
+    "change": -2052.24,
+    "changePercent": -2.53,
+    "dayHigh": 81586.2,
+    "dayLow": 78713.0,
+    "date": "2026-05-15"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7501.24,
-    "previousClose": 7444.25,
-    "change": 56.99,
-    "changePercent": 0.77,
-    "dayHigh": 7517.12,
-    "dayLow": 7454.4,
-    "date": "2026-05-14"
+    "price": 7408.5,
+    "previousClose": 7501.24,
+    "change": -92.74,
+    "changePercent": -1.24,
+    "dayHigh": 7454.85,
+    "dayLow": 7397.5,
+    "date": "2026-05-15"
   }
 }
