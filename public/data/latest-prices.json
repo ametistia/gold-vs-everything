@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-05-19T22:43:44Z",
+  "updatedAt": "2026-05-20T22:51:15Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4483.4,
-    "previousClose": 4552.5,
-    "change": -69.1,
-    "changePercent": -1.52,
-    "dayHigh": 4488.6,
-    "dayLow": 4480.0,
-    "date": "2026-05-19"
+    "price": 4542.4,
+    "previousClose": 4506.3,
+    "change": 36.1,
+    "changePercent": 0.8,
+    "dayHigh": 4549.9,
+    "dayLow": 4536.0,
+    "date": "2026-05-20"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 74.27,
-    "previousClose": 77.07,
-    "change": -2.8,
-    "changePercent": -3.64,
-    "dayHigh": 74.33,
-    "dayLow": 73.97,
-    "date": "2026-05-19"
+    "price": 75.93,
+    "previousClose": 74.83,
+    "change": 1.1,
+    "changePercent": 1.47,
+    "dayHigh": 76.23,
+    "dayLow": 75.57,
+    "date": "2026-05-20"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 104.21,
-    "previousClose": 108.66,
-    "change": -4.45,
-    "changePercent": -4.1,
-    "dayHigh": 104.36,
-    "dayLow": 104.03,
-    "date": "2026-05-19"
+    "price": 98.95,
+    "previousClose": 107.77,
+    "change": -8.82,
+    "changePercent": -8.18,
+    "dayHigh": 99.22,
+    "dayLow": 98.75,
+    "date": "2026-05-20"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 76685.0,
-    "previousClose": 76954.17,
-    "change": -269.17,
-    "changePercent": -0.35,
-    "dayHigh": 77206.0,
-    "dayLow": 76193.66,
-    "date": "2026-05-19"
+    "price": 77395.09,
+    "previousClose": 76750.91,
+    "change": 644.19,
+    "changePercent": 0.84,
+    "dayHigh": 77683.16,
+    "dayLow": 76499.27,
+    "date": "2026-05-20"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7353.61,
-    "previousClose": 7403.05,
-    "change": -49.44,
-    "changePercent": -0.67,
-    "dayHigh": 7395.32,
-    "dayLow": 7333.68,
-    "date": "2026-05-19"
+    "price": 7432.97,
+    "previousClose": 7353.61,
+    "change": 79.36,
+    "changePercent": 1.08,
+    "dayHigh": 7435.69,
+    "dayLow": 7357.46,
+    "date": "2026-05-20"
   }
 }
