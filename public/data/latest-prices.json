@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-06-01T23:13:13Z",
+  "updatedAt": "2026-06-02T23:14:35Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4516.2,
-    "previousClose": 4516.2,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 4517.9,
-    "dayLow": 4509.5,
-    "date": "2026-06-01"
+    "price": 4512.1,
+    "previousClose": 4475.2,
+    "change": 36.9,
+    "changePercent": 0.82,
+    "dayHigh": 4522.7,
+    "dayLow": 4511.4,
+    "date": "2026-06-02"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 75.23,
-    "previousClose": 75.23,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 75.25,
-    "dayLow": 75.0,
-    "date": "2026-06-01"
+    "price": 75.15,
+    "previousClose": 75.01,
+    "change": 0.15,
+    "changePercent": 0.2,
+    "dayHigh": 75.6,
+    "dayLow": 75.15,
+    "date": "2026-06-02"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 92.28,
-    "previousClose": 92.28,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 92.61,
-    "dayLow": 92.14,
-    "date": "2026-06-01"
+    "price": 94.64,
+    "previousClose": 92.16,
+    "change": 2.48,
+    "changePercent": 2.69,
+    "dayHigh": 94.7,
+    "dayLow": 93.45,
+    "date": "2026-06-02"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 71297.41,
-    "previousClose": 73579.69,
-    "change": -2282.28,
-    "changePercent": -3.1,
-    "dayHigh": 73874.75,
-    "dayLow": 70787.74,
-    "date": "2026-06-01"
+    "price": 66550.0,
+    "previousClose": 71319.77,
+    "change": -4769.77,
+    "changePercent": -6.69,
+    "dayHigh": 71320.49,
+    "dayLow": 66231.22,
+    "date": "2026-06-02"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7599.96,
-    "previousClose": 7580.06,
-    "change": 19.9,
-    "changePercent": 0.26,
-    "dayHigh": 7617.66,
-    "dayLow": 7562.61,
-    "date": "2026-06-01"
+    "price": 7609.78,
+    "previousClose": 7599.96,
+    "change": 9.82,
+    "changePercent": 0.13,
+    "dayHigh": 7620.9,
+    "dayLow": 7582.99,
+    "date": "2026-06-02"
   }
 }
