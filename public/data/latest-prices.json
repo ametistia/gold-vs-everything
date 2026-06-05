@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-06-04T22:52:44Z",
+  "updatedAt": "2026-06-05T22:40:34Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4505.2,
-    "previousClose": 4436.7,
-    "change": 68.5,
-    "changePercent": 1.54,
+    "price": 4353.9,
+    "previousClose": 4475.8,
+    "change": -121.9,
+    "changePercent": -2.72,
     "dayHigh": 4508.7,
-    "dayLow": 4500.4,
-    "date": "2026-06-04"
+    "dayLow": 4336.6,
+    "date": "2026-06-05"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 74.24,
-    "previousClose": 73.48,
-    "change": 0.76,
-    "changePercent": 1.04,
-    "dayHigh": 74.26,
-    "dayLow": 74.11,
-    "date": "2026-06-04"
+    "price": 68.0,
+    "previousClose": 73.78,
+    "change": -5.78,
+    "changePercent": -7.84,
+    "dayHigh": 74.38,
+    "dayLow": 67.7,
+    "date": "2026-06-05"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 92.85,
-    "previousClose": 96.02,
-    "change": -3.17,
-    "changePercent": -3.3,
-    "dayHigh": 92.94,
-    "dayLow": 92.52,
-    "date": "2026-06-04"
+    "price": 90.25,
+    "previousClose": 93.04,
+    "change": -2.79,
+    "changePercent": -3.0,
+    "dayHigh": 93.63,
+    "dayLow": 89.68,
+    "date": "2026-06-05"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 63529.06,
-    "previousClose": 64014.37,
-    "change": -485.31,
-    "changePercent": -0.76,
-    "dayHigh": 64659.06,
-    "dayLow": 61351.63,
-    "date": "2026-06-04"
+    "price": 61722.0,
+    "previousClose": 63801.57,
+    "change": -2079.57,
+    "changePercent": -3.26,
+    "dayHigh": 63828.0,
+    "dayLow": 59156.43,
+    "date": "2026-06-05"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7584.31,
-    "previousClose": 7553.68,
-    "change": 30.63,
-    "changePercent": 0.41,
-    "dayHigh": 7598.19,
-    "dayLow": 7516.54,
-    "date": "2026-06-04"
+    "price": 7383.74,
+    "previousClose": 7584.31,
+    "change": -200.57,
+    "changePercent": -2.64,
+    "dayHigh": 7541.81,
+    "dayLow": 7368.63,
+    "date": "2026-06-05"
   }
 }
