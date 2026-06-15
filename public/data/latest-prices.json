@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-06-14T22:39:07Z",
+  "updatedAt": "2026-06-15T23:16:27Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4307.8,
-    "previousClose": 4215.0,
-    "change": 92.8,
-    "changePercent": 2.2,
-    "dayHigh": 4329.6,
-    "dayLow": 4283.4,
-    "date": "2026-06-14"
+    "price": 4336.2,
+    "previousClose": 4336.2,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 4337.3,
+    "dayLow": 4326.7,
+    "date": "2026-06-15"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 69.94,
-    "previousClose": 67.86,
-    "change": 2.08,
-    "changePercent": 3.07,
-    "dayHigh": 70.39,
-    "dayLow": 68.72,
-    "date": "2026-06-14"
+    "price": 70.01,
+    "previousClose": 70.01,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 70.19,
+    "dayLow": 69.88,
+    "date": "2026-06-15"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 81.29,
-    "previousClose": 84.88,
-    "change": -3.59,
-    "changePercent": -4.23,
-    "dayHigh": 82.42,
-    "dayLow": 80.25,
-    "date": "2026-06-14"
+    "price": 81.38,
+    "previousClose": 81.38,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 81.49,
+    "dayLow": 80.92,
+    "date": "2026-06-15"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 65346.02,
-    "previousClose": 64421.32,
-    "change": 924.7,
-    "changePercent": 1.44,
-    "dayHigh": 65391.52,
-    "dayLow": 63646.95,
-    "date": "2026-06-14"
+    "price": 66181.92,
+    "previousClose": 65710.4,
+    "change": 471.52,
+    "changePercent": 0.72,
+    "dayHigh": 65849.53,
+    "dayLow": 65333.9,
+    "date": "2026-06-15"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7431.46,
-    "previousClose": 7394.3,
-    "change": 37.16,
-    "changePercent": 0.5,
-    "dayHigh": 7456.4,
-    "dayLow": 7363.01,
-    "date": "2026-06-12"
+    "price": 7554.29,
+    "previousClose": 7431.46,
+    "change": 122.83,
+    "changePercent": 1.65,
+    "dayHigh": 7577.92,
+    "dayLow": 7516.75,
+    "date": "2026-06-15"
   }
 }
