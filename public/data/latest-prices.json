@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T22:30:46Z",
+  "updatedAt": "2026-06-20T22:40:37Z",
   "gold": {
     "symbol": "GC=F",
     "price": 4172.9,
@@ -32,22 +32,22 @@
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 63200.02,
-    "previousClose": 62896.47,
-    "change": 303.55,
-    "changePercent": 0.48,
-    "dayHigh": 63316.92,
-    "dayLow": 62298.16,
-    "date": "2026-06-19"
+    "price": 64180.45,
+    "previousClose": 63540.84,
+    "change": 639.61,
+    "changePercent": 1.01,
+    "dayHigh": 64232.91,
+    "dayLow": 63151.57,
+    "date": "2026-06-20"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7500.58,
+    "price": NaN,
     "previousClose": 7420.1,
-    "change": 80.48,
-    "changePercent": 1.08,
-    "dayHigh": 7511.07,
-    "dayLow": 7468.32,
+    "change": NaN,
+    "changePercent": NaN,
+    "dayHigh": NaN,
+    "dayLow": NaN,
     "date": "2026-06-18"
   }
 }
