@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-07-05T22:29:32Z",
+  "updatedAt": "2026-07-06T22:44:22Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4190.3,
-    "previousClose": 4112.7,
-    "change": 77.6,
-    "changePercent": 1.89,
-    "dayHigh": 4208.3,
-    "dayLow": 4133.8,
-    "date": "2026-07-05"
+    "price": 4179.1,
+    "previousClose": 4179.1,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 4179.4,
+    "dayLow": 4174.6,
+    "date": "2026-07-06"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 63.24,
-    "previousClose": 60.64,
-    "change": 2.6,
-    "changePercent": 4.28,
-    "dayHigh": 63.44,
-    "dayLow": 61.38,
-    "date": "2026-07-05"
+    "price": 62.57,
+    "previousClose": 62.57,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 62.59,
+    "dayLow": 62.46,
+    "date": "2026-07-06"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 68.38,
-    "previousClose": 68.69,
-    "change": -0.31,
-    "changePercent": -0.45,
-    "dayHigh": 69.26,
-    "dayLow": 68.08,
-    "date": "2026-07-05"
+    "price": 68.67,
+    "previousClose": 68.67,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 68.72,
+    "dayLow": 68.58,
+    "date": "2026-07-06"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 63611.26,
-    "previousClose": 63088.3,
-    "change": 522.96,
-    "changePercent": 0.83,
-    "dayHigh": 63498.07,
-    "dayLow": 62468.13,
-    "date": "2026-07-05"
+    "price": 64132.78,
+    "previousClose": 63547.88,
+    "change": 584.9,
+    "changePercent": 0.92,
+    "dayHigh": 64433.6,
+    "dayLow": 61394.98,
+    "date": "2026-07-06"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7483.24,
-    "previousClose": 7483.23,
-    "change": 0.01,
-    "changePercent": 0.0,
-    "dayHigh": 7540.75,
-    "dayLow": 7427.55,
-    "date": "2026-07-02"
+    "price": 7537.43,
+    "previousClose": 7483.24,
+    "change": 54.19,
+    "changePercent": 0.72,
+    "dayHigh": 7551.31,
+    "dayLow": 7500.97,
+    "date": "2026-07-06"
   }
 }
