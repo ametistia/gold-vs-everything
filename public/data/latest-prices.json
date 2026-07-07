@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-07-06T22:44:22Z",
+  "updatedAt": "2026-07-07T22:36:30Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4179.1,
-    "previousClose": 4179.1,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 4179.4,
-    "dayLow": 4174.6,
-    "date": "2026-07-06"
+    "price": 4113.0,
+    "previousClose": 4155.1,
+    "change": -42.1,
+    "changePercent": -1.01,
+    "dayHigh": 4116.9,
+    "dayLow": 4104.0,
+    "date": "2026-07-07"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 62.57,
-    "previousClose": 62.57,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 62.59,
-    "dayLow": 62.46,
-    "date": "2026-07-06"
+    "price": 60.24,
+    "previousClose": 61.92,
+    "change": -1.68,
+    "changePercent": -2.72,
+    "dayHigh": 60.42,
+    "dayLow": 60.15,
+    "date": "2026-07-07"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 68.67,
-    "previousClose": 68.67,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 68.72,
-    "dayLow": 68.58,
-    "date": "2026-07-06"
+    "price": 72.35,
+    "previousClose": 68.55,
+    "change": 3.8,
+    "changePercent": 5.54,
+    "dayHigh": 72.65,
+    "dayLow": 72.07,
+    "date": "2026-07-07"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 64132.78,
-    "previousClose": 63547.88,
-    "change": 584.9,
-    "changePercent": 0.92,
-    "dayHigh": 64433.6,
-    "dayLow": 61394.98,
-    "date": "2026-07-06"
+    "price": 63569.67,
+    "previousClose": 63995.02,
+    "change": -425.34,
+    "changePercent": -0.66,
+    "dayHigh": 64221.41,
+    "dayLow": 62767.97,
+    "date": "2026-07-07"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7537.43,
-    "previousClose": 7483.24,
-    "change": 54.19,
-    "changePercent": 0.72,
-    "dayHigh": 7551.31,
-    "dayLow": 7500.97,
-    "date": "2026-07-06"
+    "price": 7503.85,
+    "previousClose": 7537.43,
+    "change": -33.58,
+    "changePercent": -0.45,
+    "dayHigh": 7536.06,
+    "dayLow": 7478.63,
+    "date": "2026-07-07"
   }
 }
