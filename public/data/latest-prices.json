@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-07-07T22:36:30Z",
+  "updatedAt": "2026-07-08T22:32:00Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4113.0,
-    "previousClose": 4155.1,
-    "change": -42.1,
-    "changePercent": -1.01,
-    "dayHigh": 4116.9,
-    "dayLow": 4104.0,
-    "date": "2026-07-07"
+    "price": 4084.5,
+    "previousClose": 4145.3,
+    "change": -60.8,
+    "changePercent": -1.47,
+    "dayHigh": 4089.2,
+    "dayLow": 4081.2,
+    "date": "2026-07-08"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 60.24,
-    "previousClose": 61.92,
-    "change": -1.68,
-    "changePercent": -2.72,
-    "dayHigh": 60.42,
-    "dayLow": 60.15,
-    "date": "2026-07-07"
+    "price": 58.76,
+    "previousClose": 60.93,
+    "change": -2.17,
+    "changePercent": -3.55,
+    "dayHigh": 58.89,
+    "dayLow": 58.69,
+    "date": "2026-07-08"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 72.35,
-    "previousClose": 68.55,
-    "change": 3.8,
-    "changePercent": 5.54,
-    "dayHigh": 72.65,
-    "dayLow": 72.07,
-    "date": "2026-07-07"
+    "price": 74.68,
+    "previousClose": 70.44,
+    "change": 4.24,
+    "changePercent": 6.02,
+    "dayHigh": 75.13,
+    "dayLow": 74.49,
+    "date": "2026-07-08"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 63569.67,
-    "previousClose": 63995.02,
-    "change": -425.34,
-    "changePercent": -0.66,
-    "dayHigh": 64221.41,
-    "dayLow": 62767.97,
-    "date": "2026-07-07"
+    "price": 62234.5,
+    "previousClose": 63297.39,
+    "change": -1062.89,
+    "changePercent": -1.68,
+    "dayHigh": 63669.85,
+    "dayLow": 61509.21,
+    "date": "2026-07-08"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7503.85,
-    "previousClose": 7537.43,
-    "change": -33.58,
-    "changePercent": -0.45,
-    "dayHigh": 7536.06,
-    "dayLow": 7478.63,
-    "date": "2026-07-07"
+    "price": 7482.71,
+    "previousClose": 7503.85,
+    "change": -21.14,
+    "changePercent": -0.28,
+    "dayHigh": 7488.51,
+    "dayLow": 7421.82,
+    "date": "2026-07-08"
   }
 }
