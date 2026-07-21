@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-07-20T22:29:56Z",
+  "updatedAt": "2026-07-21T22:25:57Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4010.8,
-    "previousClose": 4010.8,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 4014.7,
-    "dayLow": 4009.3,
-    "date": "2026-07-20"
+    "price": 4083.8,
+    "previousClose": 4010.3,
+    "change": 73.5,
+    "changePercent": 1.83,
+    "dayHigh": 4085.9,
+    "dayLow": 4081.0,
+    "date": "2026-07-21"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 56.58,
-    "previousClose": 56.58,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 56.75,
-    "dayLow": 56.58,
-    "date": "2026-07-20"
+    "price": 59.1,
+    "previousClose": 56.8,
+    "change": 2.3,
+    "changePercent": 4.05,
+    "dayHigh": 59.23,
+    "dayLow": 59.08,
+    "date": "2026-07-21"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 82.55,
-    "previousClose": 82.55,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 82.69,
-    "dayLow": 82.4,
-    "date": "2026-07-20"
+    "price": 84.62,
+    "previousClose": 83.23,
+    "change": 1.39,
+    "changePercent": 1.67,
+    "dayHigh": 84.75,
+    "dayLow": 84.56,
+    "date": "2026-07-21"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 65171.31,
-    "previousClose": 64690.8,
-    "change": 480.5,
-    "changePercent": 0.74,
-    "dayHigh": 65703.08,
-    "dayLow": 63765.35,
-    "date": "2026-07-20"
+    "price": 66217.7,
+    "previousClose": 65230.03,
+    "change": 987.68,
+    "changePercent": 1.51,
+    "dayHigh": 66890.5,
+    "dayLow": 65138.83,
+    "date": "2026-07-21"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7443.28,
-    "previousClose": 7457.69,
-    "change": -14.41,
-    "changePercent": -0.19,
-    "dayHigh": 7513.23,
-    "dayLow": 7440.53,
-    "date": "2026-07-20"
+    "price": 7509.2,
+    "previousClose": 7443.28,
+    "change": 65.92,
+    "changePercent": 0.89,
+    "dayHigh": 7515.31,
+    "dayLow": 7467.86,
+    "date": "2026-07-21"
   }
 }
