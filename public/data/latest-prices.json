@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-07-21T22:25:57Z",
+  "updatedAt": "2026-07-22T22:32:26Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4083.8,
-    "previousClose": 4010.3,
-    "change": 73.5,
-    "changePercent": 1.83,
-    "dayHigh": 4085.9,
-    "dayLow": 4081.0,
-    "date": "2026-07-21"
+    "price": 4125.6,
+    "previousClose": 4071.1,
+    "change": 54.5,
+    "changePercent": 1.34,
+    "dayHigh": 4129.7,
+    "dayLow": 4074.6,
+    "date": "2026-07-22"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 59.1,
-    "previousClose": 56.8,
-    "change": 2.3,
-    "changePercent": 4.05,
-    "dayHigh": 59.23,
-    "dayLow": 59.08,
-    "date": "2026-07-21"
+    "price": 59.87,
+    "previousClose": 58.83,
+    "change": 1.03,
+    "changePercent": 1.76,
+    "dayHigh": 60.09,
+    "dayLow": 59.05,
+    "date": "2026-07-22"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 84.62,
-    "previousClose": 83.23,
-    "change": 1.39,
-    "changePercent": 1.67,
-    "dayHigh": 84.75,
-    "dayLow": 84.56,
-    "date": "2026-07-21"
+    "price": 88.2,
+    "previousClose": 84.91,
+    "change": 3.29,
+    "changePercent": 3.87,
+    "dayHigh": 88.36,
+    "dayLow": 87.32,
+    "date": "2026-07-22"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 66217.7,
-    "previousClose": 65230.03,
-    "change": 987.68,
-    "changePercent": 1.51,
-    "dayHigh": 66890.5,
-    "dayLow": 65138.83,
-    "date": "2026-07-21"
+    "price": 65975.14,
+    "previousClose": 66505.12,
+    "change": -529.98,
+    "changePercent": -0.8,
+    "dayHigh": 66684.68,
+    "dayLow": 65540.15,
+    "date": "2026-07-22"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7509.2,
-    "previousClose": 7443.28,
-    "change": 65.92,
-    "changePercent": 0.89,
-    "dayHigh": 7515.31,
-    "dayLow": 7467.86,
-    "date": "2026-07-21"
+    "price": 7498.96,
+    "previousClose": 7509.2,
+    "change": -10.24,
+    "changePercent": -0.14,
+    "dayHigh": 7525.94,
+    "dayLow": 7485.85,
+    "date": "2026-07-22"
   }
 }
