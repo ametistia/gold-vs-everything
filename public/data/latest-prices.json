@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-07-26T22:28:51Z",
+  "updatedAt": "2026-07-27T22:32:53Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4089.7,
-    "previousClose": 4067.6,
-    "change": 22.1,
-    "changePercent": 0.54,
-    "dayHigh": 4100.1,
-    "dayLow": 4086.9,
-    "date": "2026-07-26"
+    "price": 4075.8,
+    "previousClose": 4075.8,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 4085.7,
+    "dayLow": 4075.8,
+    "date": "2026-07-27"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 59.82,
-    "previousClose": 58.66,
-    "change": 1.16,
-    "changePercent": 1.98,
-    "dayHigh": 60.0,
-    "dayLow": 59.72,
-    "date": "2026-07-26"
+    "price": 58.68,
+    "previousClose": 58.68,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 58.83,
+    "dayLow": 58.67,
+    "date": "2026-07-27"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 84.1,
-    "previousClose": 89.31,
-    "change": -5.21,
-    "changePercent": -5.83,
-    "dayHigh": 86.2,
-    "dayLow": 83.1,
-    "date": "2026-07-26"
+    "price": 81.98,
+    "previousClose": 81.98,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 82.11,
+    "dayLow": 81.68,
+    "date": "2026-07-27"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 65178.0,
-    "previousClose": 64311.81,
-    "change": 866.19,
-    "changePercent": 1.35,
-    "dayHigh": 65147.12,
-    "dayLow": 64237.54,
-    "date": "2026-07-26"
+    "price": 64525.24,
+    "previousClose": 65340.3,
+    "change": -815.06,
+    "changePercent": -1.25,
+    "dayHigh": 65604.14,
+    "dayLow": 64403.48,
+    "date": "2026-07-27"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7411.98,
-    "previousClose": 7408.3,
-    "change": 3.68,
-    "changePercent": 0.05,
-    "dayHigh": 7460.98,
-    "dayLow": 7396.53,
-    "date": "2026-07-24"
+    "price": 7413.18,
+    "previousClose": 7411.98,
+    "change": 1.2,
+    "changePercent": 0.02,
+    "dayHigh": 7480.57,
+    "dayLow": 7382.74,
+    "date": "2026-07-27"
   }
 }
