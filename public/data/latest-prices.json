@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-07-29T22:27:42Z",
+  "updatedAt": "2026-07-30T22:34:51Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4133.1,
-    "previousClose": 4036.3,
-    "change": 96.8,
-    "changePercent": 2.4,
-    "dayHigh": 4135.5,
-    "dayLow": 4121.1,
-    "date": "2026-07-29"
+    "price": 4166.0,
+    "previousClose": 4034.7,
+    "change": 131.3,
+    "changePercent": 3.25,
+    "dayHigh": 4166.8,
+    "dayLow": 4158.0,
+    "date": "2026-07-30"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 58.37,
-    "previousClose": 57.3,
-    "change": 1.07,
-    "changePercent": 1.87,
-    "dayHigh": 58.49,
-    "dayLow": 57.8,
-    "date": "2026-07-29"
+    "price": 59.28,
+    "previousClose": 57.86,
+    "change": 1.42,
+    "changePercent": 2.45,
+    "dayHigh": 59.38,
+    "dayLow": 59.25,
+    "date": "2026-07-30"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 84.31,
-    "previousClose": 79.26,
-    "change": 5.05,
-    "changePercent": 6.37,
-    "dayHigh": 84.7,
-    "dayLow": 84.24,
-    "date": "2026-07-29"
+    "price": 84.22,
+    "previousClose": 84.46,
+    "change": -0.24,
+    "changePercent": -0.28,
+    "dayHigh": 84.32,
+    "dayLow": 83.87,
+    "date": "2026-07-30"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 63936.3,
-    "previousClose": 63871.36,
-    "change": 64.94,
-    "changePercent": 0.1,
-    "dayHigh": 64620.41,
-    "dayLow": 63266.23,
-    "date": "2026-07-29"
+    "price": 64872.7,
+    "previousClose": 63908.17,
+    "change": 964.53,
+    "changePercent": 1.51,
+    "dayHigh": 65038.38,
+    "dayLow": 63547.79,
+    "date": "2026-07-30"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7316.15,
-    "previousClose": 7428.78,
-    "change": -112.63,
-    "changePercent": -1.52,
-    "dayHigh": 7450.84,
-    "dayLow": 7313.92,
-    "date": "2026-07-29"
+    "price": 7437.63,
+    "previousClose": 7316.15,
+    "change": 121.48,
+    "changePercent": 1.66,
+    "dayHigh": 7448.75,
+    "dayLow": 7370.98,
+    "date": "2026-07-30"
   }
 }
