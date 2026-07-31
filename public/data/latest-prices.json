@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-07-30T22:34:51Z",
+  "updatedAt": "2026-07-31T22:31:53Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4166.0,
-    "previousClose": 4034.7,
-    "change": 131.3,
-    "changePercent": 3.25,
-    "dayHigh": 4166.8,
-    "dayLow": 4158.0,
-    "date": "2026-07-30"
+    "price": 4098.6,
+    "previousClose": 4100.1,
+    "change": -1.5,
+    "changePercent": -0.04,
+    "dayHigh": 4170.7,
+    "dayLow": 4076.4,
+    "date": "2026-07-31"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 59.28,
-    "previousClose": 57.86,
-    "change": 1.42,
-    "changePercent": 2.45,
-    "dayHigh": 59.38,
-    "dayLow": 59.25,
-    "date": "2026-07-30"
+    "price": 57.78,
+    "previousClose": 58.81,
+    "change": -1.04,
+    "changePercent": -1.77,
+    "dayHigh": 59.4,
+    "dayLow": 57.22,
+    "date": "2026-07-31"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 84.22,
-    "previousClose": 84.46,
-    "change": -0.24,
-    "changePercent": -0.28,
-    "dayHigh": 84.32,
-    "dayLow": 83.87,
-    "date": "2026-07-30"
+    "price": 86.8,
+    "previousClose": 83.59,
+    "change": 3.21,
+    "changePercent": 3.84,
+    "dayHigh": 86.87,
+    "dayLow": 81.06,
+    "date": "2026-07-31"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 64872.7,
-    "previousClose": 63908.17,
-    "change": 964.53,
-    "changePercent": 1.51,
-    "dayHigh": 65038.38,
-    "dayLow": 63547.79,
-    "date": "2026-07-30"
+    "price": 62933.77,
+    "previousClose": 64725.31,
+    "change": -1791.54,
+    "changePercent": -2.77,
+    "dayHigh": 65271.17,
+    "dayLow": 62447.51,
+    "date": "2026-07-31"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7437.63,
-    "previousClose": 7316.15,
-    "change": 121.48,
-    "changePercent": 1.66,
-    "dayHigh": 7448.75,
-    "dayLow": 7370.98,
-    "date": "2026-07-30"
+    "price": 7489.72,
+    "previousClose": 7437.63,
+    "change": 52.09,
+    "changePercent": 0.7,
+    "dayHigh": 7512.04,
+    "dayLow": 7399.83,
+    "date": "2026-07-31"
   }
 }
