@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-08-03T22:32:50Z",
+  "updatedAt": "2026-08-04T22:34:53Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4107.9,
-    "previousClose": 4107.9,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 4110.3,
-    "dayLow": 4104.6,
-    "date": "2026-08-03"
+    "price": 4133.0,
+    "previousClose": 4033.7,
+    "change": 99.3,
+    "changePercent": 2.46,
+    "dayHigh": 4135.5,
+    "dayLow": 4132.1,
+    "date": "2026-08-04"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 58.26,
-    "previousClose": 58.26,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 58.44,
-    "dayLow": 58.21,
-    "date": "2026-08-03"
+    "price": 59.76,
+    "previousClose": 57.67,
+    "change": 2.09,
+    "changePercent": 3.63,
+    "dayHigh": 59.83,
+    "dayLow": 59.72,
+    "date": "2026-08-04"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 79.98,
-    "previousClose": 79.98,
-    "change": 0.0,
-    "changePercent": 0.0,
-    "dayHigh": 80.1,
-    "dayLow": 79.95,
-    "date": "2026-08-03"
+    "price": 75.36,
+    "previousClose": 80.34,
+    "change": -4.98,
+    "changePercent": -6.2,
+    "dayHigh": 75.4,
+    "dayLow": 75.14,
+    "date": "2026-08-04"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 63485.38,
-    "previousClose": 63482.0,
-    "change": 3.38,
-    "changePercent": 0.01,
-    "dayHigh": 64020.32,
-    "dayLow": 62235.13,
-    "date": "2026-08-03"
+    "price": 64204.66,
+    "previousClose": 63460.9,
+    "change": 743.76,
+    "changePercent": 1.17,
+    "dayHigh": 64338.99,
+    "dayLow": 63292.66,
+    "date": "2026-08-04"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7600.5,
-    "previousClose": 7489.72,
-    "change": 110.78,
-    "changePercent": 1.48,
-    "dayHigh": 7610.04,
-    "dayLow": 7504.78,
-    "date": "2026-08-03"
+    "price": 7736.52,
+    "previousClose": 7600.5,
+    "change": 136.02,
+    "changePercent": 1.79,
+    "dayHigh": 7758.21,
+    "dayLow": 7629.1,
+    "date": "2026-08-04"
   }
 }
