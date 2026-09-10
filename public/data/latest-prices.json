@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-09-09T23:25:01Z",
+  "updatedAt": "2026-09-10T23:18:51Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4444.8,
-    "previousClose": 4393.9,
-    "change": 50.9,
-    "changePercent": 1.16,
-    "dayHigh": 4450.4,
-    "dayLow": 4442.0,
-    "date": "2026-09-09"
+    "price": 4358.6,
+    "previousClose": 4416.0,
+    "change": -57.4,
+    "changePercent": -1.3,
+    "dayHigh": 4365.8,
+    "dayLow": 4354.0,
+    "date": "2026-09-10"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 67.9,
-    "previousClose": 66.3,
-    "change": 1.6,
-    "changePercent": 2.42,
-    "dayHigh": 68.04,
-    "dayLow": 67.86,
-    "date": "2026-09-09"
+    "price": 64.04,
+    "previousClose": 67.94,
+    "change": -3.9,
+    "changePercent": -5.74,
+    "dayHigh": 64.19,
+    "dayLow": 63.76,
+    "date": "2026-09-10"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 97.14,
-    "previousClose": 93.03,
-    "change": 4.11,
-    "changePercent": 4.42,
-    "dayHigh": 97.79,
-    "dayLow": 96.79,
-    "date": "2026-09-09"
+    "price": 103.77,
+    "previousClose": 96.05,
+    "change": 7.72,
+    "changePercent": 8.04,
+    "dayHigh": 104.44,
+    "dayLow": 103.74,
+    "date": "2026-09-10"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 78094.33,
-    "previousClose": 78438.58,
-    "change": -344.25,
-    "changePercent": -0.44,
-    "dayHigh": 79691.66,
-    "dayLow": 77824.55,
-    "date": "2026-09-09"
+    "price": 76635.77,
+    "previousClose": 78259.52,
+    "change": -1623.75,
+    "changePercent": -2.07,
+    "dayHigh": 78497.55,
+    "dayLow": 76542.11,
+    "date": "2026-09-10"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7636.36,
-    "previousClose": 7673.52,
-    "change": -37.16,
-    "changePercent": -0.48,
-    "dayHigh": 7660.68,
-    "dayLow": 7624.16,
-    "date": "2026-09-09"
+    "price": 7591.7,
+    "previousClose": 7636.36,
+    "change": -44.66,
+    "changePercent": -0.58,
+    "dayHigh": 7612.86,
+    "dayLow": 7580.06,
+    "date": "2026-09-10"
   }
 }
