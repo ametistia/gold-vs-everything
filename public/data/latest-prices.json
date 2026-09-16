@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-09-15T23:34:46Z",
+  "updatedAt": "2026-09-16T23:43:15Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4325.3,
-    "previousClose": 4351.9,
-    "change": -26.6,
-    "changePercent": -0.61,
-    "dayHigh": 4339.5,
-    "dayLow": 4324.8,
-    "date": "2026-09-15"
+    "price": 4310.4,
+    "previousClose": 4332.8,
+    "change": -22.4,
+    "changePercent": -0.52,
+    "dayHigh": 4314.0,
+    "dayLow": 4294.5,
+    "date": "2026-09-16"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 64.21,
-    "previousClose": 63.51,
-    "change": 0.69,
-    "changePercent": 1.09,
-    "dayHigh": 64.34,
-    "dayLow": 64.18,
-    "date": "2026-09-15"
+    "price": 63.6,
+    "previousClose": 63.24,
+    "change": 0.36,
+    "changePercent": 0.58,
+    "dayHigh": 63.62,
+    "dayLow": 63.28,
+    "date": "2026-09-16"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 105.43,
-    "previousClose": 101.39,
-    "change": 4.04,
-    "changePercent": 3.98,
-    "dayHigh": 105.63,
-    "dayLow": 105.24,
-    "date": "2026-09-15"
+    "price": 101.98,
+    "previousClose": 105.83,
+    "change": -3.85,
+    "changePercent": -3.64,
+    "dayHigh": 102.24,
+    "dayLow": 101.87,
+    "date": "2026-09-16"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 75637.36,
-    "previousClose": 78163.38,
-    "change": -2526.02,
-    "changePercent": -3.23,
-    "dayHigh": 78232.38,
-    "dayLow": 74984.84,
-    "date": "2026-09-15"
+    "price": 76112.28,
+    "previousClose": 75612.51,
+    "change": 499.77,
+    "changePercent": 0.66,
+    "dayHigh": 76249.8,
+    "dayLow": 75288.47,
+    "date": "2026-09-16"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7585.73,
-    "previousClose": 7619.98,
-    "change": -34.25,
+    "price": 7551.81,
+    "previousClose": 7585.73,
+    "change": -33.92,
     "changePercent": -0.45,
-    "dayHigh": 7617.26,
-    "dayLow": 7572.69,
-    "date": "2026-09-15"
+    "dayHigh": 7626.79,
+    "dayLow": 7507.77,
+    "date": "2026-09-16"
   }
 }
