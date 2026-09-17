@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-09-16T23:43:15Z",
+  "updatedAt": "2026-09-17T23:36:02Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4310.4,
-    "previousClose": 4332.8,
-    "change": -22.4,
-    "changePercent": -0.52,
-    "dayHigh": 4314.0,
-    "dayLow": 4294.5,
-    "date": "2026-09-16"
+    "price": 4384.3,
+    "previousClose": 4387.5,
+    "change": -3.2,
+    "changePercent": -0.07,
+    "dayHigh": 4388.5,
+    "dayLow": 4378.3,
+    "date": "2026-09-17"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 63.6,
-    "previousClose": 63.24,
-    "change": 0.36,
-    "changePercent": 0.58,
-    "dayHigh": 63.62,
-    "dayLow": 63.28,
-    "date": "2026-09-16"
+    "price": 65.91,
+    "previousClose": 64.29,
+    "change": 1.62,
+    "changePercent": 2.52,
+    "dayHigh": 65.93,
+    "dayLow": 65.74,
+    "date": "2026-09-17"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 101.98,
-    "previousClose": 105.83,
-    "change": -3.85,
-    "changePercent": -3.64,
-    "dayHigh": 102.24,
-    "dayLow": 101.87,
-    "date": "2026-09-16"
+    "price": 101.07,
+    "previousClose": 102.43,
+    "change": -1.36,
+    "changePercent": -1.33,
+    "dayHigh": 101.33,
+    "dayLow": 100.88,
+    "date": "2026-09-17"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 76112.28,
-    "previousClose": 75612.51,
-    "change": 499.77,
-    "changePercent": 0.66,
-    "dayHigh": 76249.8,
-    "dayLow": 75288.47,
-    "date": "2026-09-16"
+    "price": 76337.19,
+    "previousClose": 76150.32,
+    "change": 186.87,
+    "changePercent": 0.25,
+    "dayHigh": 76968.79,
+    "dayLow": 75951.2,
+    "date": "2026-09-17"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7551.81,
-    "previousClose": 7585.73,
-    "change": -33.92,
-    "changePercent": -0.45,
-    "dayHigh": 7626.79,
-    "dayLow": 7507.77,
-    "date": "2026-09-16"
+    "price": 7637.76,
+    "previousClose": 7551.81,
+    "change": 85.95,
+    "changePercent": 1.14,
+    "dayHigh": 7646.86,
+    "dayLow": 7611.81,
+    "date": "2026-09-17"
   }
 }
