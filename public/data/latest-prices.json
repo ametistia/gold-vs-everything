@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-09-17T23:36:02Z",
+  "updatedAt": "2026-09-18T23:27:29Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4384.3,
-    "previousClose": 4387.5,
-    "change": -3.2,
-    "changePercent": -0.07,
-    "dayHigh": 4388.5,
-    "dayLow": 4378.3,
-    "date": "2026-09-17"
+    "price": 4415.9,
+    "previousClose": 4399.7,
+    "change": 16.2,
+    "changePercent": 0.37,
+    "dayHigh": 4439.8,
+    "dayLow": 4372.2,
+    "date": "2026-09-18"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 65.91,
-    "previousClose": 64.29,
-    "change": 1.62,
-    "changePercent": 2.52,
-    "dayHigh": 65.93,
+    "price": 66.79,
+    "previousClose": 65.47,
+    "change": 1.32,
+    "changePercent": 2.01,
+    "dayHigh": 67.89,
     "dayLow": 65.74,
-    "date": "2026-09-17"
+    "date": "2026-09-18"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 101.07,
-    "previousClose": 102.43,
-    "change": -1.36,
-    "changePercent": -1.33,
-    "dayHigh": 101.33,
-    "dayLow": 100.88,
-    "date": "2026-09-17"
+    "price": 95.47,
+    "previousClose": 101.91,
+    "change": -6.44,
+    "changePercent": -6.32,
+    "dayHigh": 98.01,
+    "dayLow": 94.83,
+    "date": "2026-09-18"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 76337.19,
-    "previousClose": 76150.32,
-    "change": 186.87,
-    "changePercent": 0.25,
-    "dayHigh": 76968.79,
-    "dayLow": 75951.2,
-    "date": "2026-09-17"
+    "price": 81023.98,
+    "previousClose": 76403.77,
+    "change": 4620.2,
+    "changePercent": 6.05,
+    "dayHigh": 81316.94,
+    "dayLow": 76300.22,
+    "date": "2026-09-18"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7637.76,
-    "previousClose": 7551.81,
-    "change": 85.95,
-    "changePercent": 1.14,
-    "dayHigh": 7646.86,
-    "dayLow": 7611.81,
-    "date": "2026-09-17"
+    "price": 7650.5,
+    "previousClose": 7637.76,
+    "change": 12.74,
+    "changePercent": 0.17,
+    "dayHigh": 7657.17,
+    "dayLow": 7610.52,
+    "date": "2026-09-18"
   }
 }
