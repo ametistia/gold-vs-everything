@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-09-27T23:51:59Z",
+  "updatedAt": "2026-09-29T01:08:12Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4294.0,
-    "previousClose": 4321.2,
-    "change": -27.2,
-    "changePercent": -0.63,
-    "dayHigh": 4315.6,
-    "dayLow": 4291.9,
-    "date": "2026-09-27"
+    "price": 4149.0,
+    "previousClose": 4149.0,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 4161.4,
+    "dayLow": 4146.2,
+    "date": "2026-09-28"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 64.17,
-    "previousClose": 64.25,
-    "change": -0.08,
-    "changePercent": -0.12,
-    "dayHigh": 64.66,
-    "dayLow": 64.09,
-    "date": "2026-09-27"
+    "price": 61.02,
+    "previousClose": 61.02,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 61.23,
+    "dayLow": 60.81,
+    "date": "2026-09-28"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 93.67,
-    "previousClose": 92.41,
-    "change": 1.26,
-    "changePercent": 1.36,
-    "dayHigh": 93.8,
-    "dayLow": 93.05,
-    "date": "2026-09-27"
+    "price": 93.36,
+    "previousClose": 93.36,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 93.77,
+    "dayLow": 93.0,
+    "date": "2026-09-28"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 84465.96,
-    "previousClose": 84406.45,
-    "change": 59.51,
-    "changePercent": 0.07,
-    "dayHigh": 85021.7,
-    "dayLow": 84132.36,
-    "date": "2026-09-27"
+    "price": 83026.77,
+    "previousClose": 83026.77,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 83539.03,
+    "dayLow": 83132.75,
+    "date": "2026-09-29"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7743.41,
-    "previousClose": 7704.13,
-    "change": 39.28,
-    "changePercent": 0.51,
-    "dayHigh": 7752.07,
-    "dayLow": 7693.08,
-    "date": "2026-09-25"
+    "price": 7683.69,
+    "previousClose": 7743.41,
+    "change": -59.72,
+    "changePercent": -0.77,
+    "dayHigh": 7724.15,
+    "dayLow": 7666.6,
+    "date": "2026-09-28"
   }
 }
