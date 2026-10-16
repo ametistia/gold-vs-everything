@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-10-15T23:44:33Z",
+  "updatedAt": "2026-10-16T23:45:02Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4182.7,
-    "previousClose": 4107.9,
-    "change": 74.8,
-    "changePercent": 1.82,
-    "dayHigh": 4193.9,
-    "dayLow": 4182.2,
-    "date": "2026-10-15"
+    "price": 4186.7,
+    "previousClose": 4170.1,
+    "change": 16.6,
+    "changePercent": 0.4,
+    "dayHigh": 4220.3,
+    "dayLow": 4167.5,
+    "date": "2026-10-16"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 57.33,
-    "previousClose": 55.55,
-    "change": 1.78,
-    "changePercent": 3.2,
-    "dayHigh": 57.65,
-    "dayLow": 57.31,
-    "date": "2026-10-15"
+    "price": 57.13,
+    "previousClose": 56.84,
+    "change": 0.3,
+    "changePercent": 0.52,
+    "dayHigh": 58.14,
+    "dayLow": 57.03,
+    "date": "2026-10-16"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 96.1,
-    "previousClose": 95.09,
-    "change": 1.01,
-    "changePercent": 1.06,
-    "dayHigh": 96.39,
-    "dayLow": 95.93,
-    "date": "2026-10-15"
+    "price": 99.04,
+    "previousClose": 97.97,
+    "change": 1.07,
+    "changePercent": 1.09,
+    "dayHigh": 99.34,
+    "dayLow": 95.29,
+    "date": "2026-10-16"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 82074.19,
-    "previousClose": 81562.49,
-    "change": 511.7,
-    "changePercent": 0.63,
-    "dayHigh": 82496.74,
-    "dayLow": 79789.36,
-    "date": "2026-10-15"
+    "price": 81519.14,
+    "previousClose": 82141.46,
+    "change": -622.32,
+    "changePercent": -0.76,
+    "dayHigh": 82717.27,
+    "dayLow": 80735.26,
+    "date": "2026-10-16"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7744.06,
-    "previousClose": 7718.94,
-    "change": 25.12,
-    "changePercent": 0.33,
-    "dayHigh": 7754.15,
-    "dayLow": 7669.66,
-    "date": "2026-10-15"
+    "price": 7659.44,
+    "previousClose": 7744.06,
+    "change": -84.62,
+    "changePercent": -1.09,
+    "dayHigh": 7756.84,
+    "dayLow": 7631.77,
+    "date": "2026-10-16"
   }
 }
