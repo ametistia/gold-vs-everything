@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-10-18T23:27:19Z",
+  "updatedAt": "2026-10-20T00:29:50Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4197.4,
-    "previousClose": 4181.1,
-    "change": 16.3,
-    "changePercent": 0.39,
-    "dayHigh": 4202.0,
-    "dayLow": 4179.2,
-    "date": "2026-10-18"
+    "price": 4152.1,
+    "previousClose": 4152.1,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 4163.3,
+    "dayLow": 4150.7,
+    "date": "2026-10-19"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 57.42,
-    "previousClose": 56.99,
-    "change": 0.42,
-    "changePercent": 0.74,
-    "dayHigh": 57.56,
-    "dayLow": 56.9,
-    "date": "2026-10-18"
+    "price": 56.94,
+    "previousClose": 56.94,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 57.27,
+    "dayLow": 56.92,
+    "date": "2026-10-19"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 98.1,
-    "previousClose": 101.41,
-    "change": -3.31,
-    "changePercent": -3.26,
-    "dayHigh": 99.2,
-    "dayLow": 98.1,
-    "date": "2026-10-18"
+    "price": 98.41,
+    "previousClose": 98.41,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 98.43,
+    "dayLow": 98.04,
+    "date": "2026-10-19"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 81868.36,
-    "previousClose": 81382.15,
-    "change": 486.21,
-    "changePercent": 0.6,
-    "dayHigh": 82143.93,
-    "dayLow": 80696.82,
-    "date": "2026-10-18"
+    "price": 81467.9,
+    "previousClose": 81467.9,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 81844.43,
+    "dayLow": 81462.09,
+    "date": "2026-10-20"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7659.44,
-    "previousClose": 7744.06,
-    "change": -84.62,
-    "changePercent": -1.09,
-    "dayHigh": 7756.84,
-    "dayLow": 7631.77,
-    "date": "2026-10-16"
+    "price": 7690.73,
+    "previousClose": 7659.44,
+    "change": 31.29,
+    "changePercent": 0.41,
+    "dayHigh": 7731.18,
+    "dayLow": 7684.79,
+    "date": "2026-10-19"
   }
 }
