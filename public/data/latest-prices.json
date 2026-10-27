@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-10-25T23:25:09Z",
+  "updatedAt": "2026-10-27T00:39:56Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 4012.2,
-    "previousClose": 4007.9,
-    "change": 4.3,
-    "changePercent": 0.11,
-    "dayHigh": 4017.9,
-    "dayLow": 4005.5,
-    "date": "2026-10-25"
+    "price": 4025.7,
+    "previousClose": 4025.7,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 4033.5,
+    "dayLow": 4017.0,
+    "date": "2026-10-26"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 54.12,
-    "previousClose": 53.71,
-    "change": 0.41,
-    "changePercent": 0.77,
-    "dayHigh": 54.34,
-    "dayLow": 53.99,
-    "date": "2026-10-25"
+    "price": 54.04,
+    "previousClose": 54.04,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 54.12,
+    "dayLow": 53.9,
+    "date": "2026-10-26"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 102.26,
-    "previousClose": 103.27,
-    "change": -1.01,
-    "changePercent": -0.98,
-    "dayHigh": 102.61,
-    "dayLow": 101.54,
-    "date": "2026-10-25"
+    "price": 101.06,
+    "previousClose": 101.06,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 101.6,
+    "dayLow": 100.99,
+    "date": "2026-10-26"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 80160.58,
-    "previousClose": 80790.84,
-    "change": -630.26,
-    "changePercent": -0.78,
-    "dayHigh": 80920.16,
-    "dayLow": 80007.93,
-    "date": "2026-10-25"
+    "price": 80218.67,
+    "previousClose": 80218.67,
+    "change": 0.0,
+    "changePercent": 0.0,
+    "dayHigh": 80202.3,
+    "dayLow": 80009.5,
+    "date": "2026-10-27"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7623.68,
-    "previousClose": 7663.43,
-    "change": -39.75,
-    "changePercent": -0.52,
-    "dayHigh": 7660.15,
-    "dayLow": 7612.07,
-    "date": "2026-10-23"
+    "price": 7676.77,
+    "previousClose": 7623.68,
+    "change": 53.09,
+    "changePercent": 0.7,
+    "dayHigh": 7702.13,
+    "dayLow": 7639.7,
+    "date": "2026-10-26"
   }
 }
