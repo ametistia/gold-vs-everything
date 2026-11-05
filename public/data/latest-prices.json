@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-11-04T01:33:14Z",
+  "updatedAt": "2026-11-05T01:35:58Z",
   "gold": {
     "symbol": "GC=F",
-    "price": 3957.4,
-    "previousClose": 3969.6,
-    "change": -12.2,
-    "changePercent": -0.31,
-    "dayHigh": 3966.9,
-    "dayLow": 3928.2,
-    "date": "2026-11-03"
+    "price": 4119.8,
+    "previousClose": 3940.4,
+    "change": 179.4,
+    "changePercent": 4.55,
+    "dayHigh": 4128.5,
+    "dayLow": 4067.0,
+    "date": "2026-11-04"
   },
   "silver": {
     "symbol": "SI=F",
-    "price": 49.97,
-    "previousClose": 50.72,
-    "change": -0.75,
-    "changePercent": -1.47,
-    "dayHigh": 50.11,
-    "dayLow": 49.4,
-    "date": "2026-11-03"
+    "price": 52.77,
+    "previousClose": 49.59,
+    "change": 3.18,
+    "changePercent": 6.42,
+    "dayHigh": 52.99,
+    "dayLow": 52.28,
+    "date": "2026-11-04"
   },
   "oil": {
     "symbol": "CL=F",
-    "price": 96.24,
-    "previousClose": 96.46,
-    "change": -0.22,
-    "changePercent": -0.23,
-    "dayHigh": 97.15,
-    "dayLow": 95.73,
-    "date": "2026-11-03"
+    "price": 87.14,
+    "previousClose": 96.09,
+    "change": -8.95,
+    "changePercent": -9.31,
+    "dayHigh": 88.43,
+    "dayLow": 87.01,
+    "date": "2026-11-04"
   },
   "bitcoin": {
     "symbol": "BTC-USD",
-    "price": 76786.76,
-    "previousClose": 76786.76,
+    "price": 80460.72,
+    "previousClose": 80460.72,
     "change": 0.0,
     "changePercent": 0.0,
-    "dayHigh": 77415.34,
-    "dayLow": 76788.55,
-    "date": "2026-11-04"
+    "dayHigh": 80699.28,
+    "dayLow": 80237.09,
+    "date": "2026-11-05"
   },
   "sp500": {
     "symbol": "^GSPC",
-    "price": 7568.92,
-    "previousClose": 7541.4,
-    "change": 27.52,
-    "changePercent": 0.36,
-    "dayHigh": 7594.61,
-    "dayLow": 7545.39,
-    "date": "2026-11-03"
+    "price": 7688.62,
+    "previousClose": 7568.92,
+    "change": 119.7,
+    "changePercent": 1.58,
+    "dayHigh": 7715.57,
+    "dayLow": 7635.81,
+    "date": "2026-11-04"
   }
 }
